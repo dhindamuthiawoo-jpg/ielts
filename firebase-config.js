@@ -1,6 +1,6 @@
 // Konfigurasi Firebase (boleh publik; keamanan data diatur oleh Firestore Rules)
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyAR•••••••••••••••••••••••••••••••",
+  apiKey: "AIzaSyARr2Sh_QDE0GpervysZfkmZ3wgaEiESuw",
   authDomain: "ielts-94f75.firebaseapp.com",
   projectId: "ielts-94f75",
   storageBucket: "ielts-94f75.firebasestorage.app",
